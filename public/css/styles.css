@@ -43,22 +43,22 @@ header {
 
 /*navbar*/
 
-#navbar img {
+.navbar img {
     width: 40px;
 }
 
-#navbar{
-    justify-content: space-between;
+#navbarNav{
+    justify-content: right;
     background-color: #FFF;
     padding: 5px 0;
 }
 
-#navbar a{
+#navbarNav a{
     font-size: 14px;
     color: #757575;
 }
 
-#navbar a:hover{
+#navbarNav a:hover{
     color: #F2A340;
 }
 
